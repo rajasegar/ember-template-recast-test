@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Sample repo for reproducting some bugs with ember-template-recast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasegar/ember-template-recast-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajasegar/ember-template-recast-test/issues"
+  },
+  "homepage": "https://github.com/rajasegar/ember-template-recast-test#readme",
+  "dependencies": {
+    "ember-template-recast": "^1.2.3"
+  }
+}
